@@ -6,7 +6,10 @@
 	height: 150px;
 }
 .hello-accio{
-	left-margin: 32px;
+	margin-left: 32px;
 	color: white;
-	padding: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
 }
